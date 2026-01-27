@@ -1,0 +1,10 @@
+Major Projects
+1.OUT BREAK OF 21 HOURS – FINAL YEAR
+Role: Unreal Engine Developer (Environment & Gameplay Support)
+Developed interactive environments using Blueprint logic, trigger volumes, and event-based gameplay
+systems.
+Assisted gameplay mechanics using Blueprint scripting
+.SILENT CIDADEL – SECOND YEAR
+Role: 3D Artist / Unreal Engine Integration
+Created and textured props using Maya and Substance Painter
+Designed and implemented HUD elements and UI widgets using Unreal Engine UMG and Blueprint scripting
